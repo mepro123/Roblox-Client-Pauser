@@ -14,8 +14,8 @@ These detections are most likely false positives caused by the AHK2EXE encryptio
 
 You can verify the file through independent scans:
 
-View VirusTotal Report
+View VirusTotal Report: https://www.virustotal.com/gui/file/209524011dd7ee00ffa8ba00ba0cf5c11abd9a37088369ff5686e417e3be5048?nocache=1
 
-View Triage Analysis
+View Triage Analysis: https://tria.ge/250517-j31sdazjx7/behavioral1
 
 If you have concerns, consider reviewing the source code before running the compiled version.
